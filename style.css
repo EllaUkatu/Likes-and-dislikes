@@ -1,0 +1,91 @@
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    width: 50%;
+    margin: auto;
+    }
+    .my likes {
+        margin-top: 4rem;
+ }
+ .likes h2 {
+    text-align: center;
+    font-size: 35px;
+    border: 5px solid yellow;
+    border-radius: 4rem;
+   padding: 40px 20px 40px 70px;
+ }
+
+ .my likes li {
+     line-height: 33px;
+ }
+ #smile{
+    color:aquamarine;
+ }
+ #new{
+    color: blue;
+    font-style: var(4rem);
+ }
+#learn{
+    border-color: blueviolet;
+    font-style: italic;
+}
+#sing{
+    font-style: oblique;
+    color: chocolate;
+}
+#genuine{
+    font-style: oblique;
+    color: chartreuse;
+}
+#risk{
+    font-style: italic;
+}
+#eat{
+    font-variant-ligatures: historical-ligatures;
+    color: darkgoldenrod;
+}
+#out{
+    font-style: oblique;
+    color: cyan;
+}
+.dislikes h2{
+    text-align: center;
+    font-size: 40px;  
+    border: 5px solid red;
+    border-radius: 4rem;
+    padding: 40px 20px 40px 70px;
+}
+.my dislikes l1 {
+    border: 4px solid yellow;
+    border-radius: 4rem;
+    padding: 40px 20px 40px 70px;
+ }
+ #liars{
+    font-size: italic;
+    color: blueviolet;
+ }
+ #gaslighters{
+    color:chartreuse
+ }
+ #lazy{
+    font-display: 4rem;
+    color: aquamarine
+    }
+    #unserious{
+        color: darkblue;
+    }
+    #snakes{
+        font-style: oblique;
+        color: blueviolet;
+    }
+    #height{
+        font-weight: normal;
+        color: indigo;
+    }
+    #backstabbers{
+        font-display: 10px;
+        color: greenyellow;
+    }pap {
+        color: deeppink;
+    }
+    #
+
